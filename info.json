@@ -1,0 +1,133 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://20.520cc.co/",
+            "path": "index.html",
+            "saved": true,
+            "size": 6746,
+            "children": [
+                {
+                    "url": "http://20.520cc.co/ayunhu/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://20.520cc.co/ayunhu/reflesh2.png",
+                    "path": "img/reflesh2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://20.520cc.co/ayunhu/pub_rem.js",
+                    "path": "js/pub_rem.js",
+                    "saved": true,
+                    "size": 471,
+                    "children": []
+                },
+                {
+                    "url": "http://20.520cc.co/ayunhu/jquery-2.0.0.min.js",
+                    "path": "js/jquery-2.0.0.min.js",
+                    "saved": true,
+                    "size": 139514,
+                    "children": []
+                },
+                {
+                    "url": "http://20.520cc.co/ayunhu/addons.js",
+                    "path": "js/addons.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://20.520cc.co/ayunhu/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 10462,
+                    "children": [
+                        {
+                            "url": "http://20.520cc.co/images/bg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://20.520cc.co/images/i2.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://20.520cc.co/images/i1.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://20.520cc.co/images/img12.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://20.520cc.co/images/jia.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://20.520cc.co/images/img1.png",
+                            "saved": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "20-520cc-co-5bknd6m",
+    "info": {
+        "remark": [],
+        "title": "云轰电话（常响铃）-云呼官网  -  决裁者团队   -   决裁者云呼",
+        "domain": "20.520cc.co",
+        "origin": "http://20.520cc.co",
+        "ip": "156.253.8.45",
+        "main": "index.html",
+        "url": "http://20.520cc.co/",
+        "totalSize": "157 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://20.520cc.co/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://20.520cc.co/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sun, 18 Sep 2022 10:32:43 GMT",
+                "content-type": "text/html; charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding"
+            }
+        },
+        "time": {
+            "start": "2022-09-18T10:32:42.818Z",
+            "end": "2022-09-18T10:32:44.534Z"
+        }
+    },
+    "options": {
+        "url": "http://20.520cc.co/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
